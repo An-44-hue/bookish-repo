@@ -1,3 +1,0 @@
-#BOOKISH
-
-Some description!
